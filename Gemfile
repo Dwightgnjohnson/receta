@@ -18,6 +18,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 
 gem 'jbuilder', '~> 2.0'
+gem 'bower-rails'
+
 gem 'sass', '3.2.19'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
